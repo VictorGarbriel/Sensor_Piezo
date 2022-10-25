@@ -1,4 +1,4 @@
-# Sensor_Piezo
+# Dispositivo Dinâmico de Presença DDP
 
 Nomes: Cibeli Aparecida, Carlos Miguel Bissoni Ribeiro, Isareal Trasejo, Raquel de Freitas e Victor Gabreil Fernandes
 
