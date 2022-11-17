@@ -1,0 +1,1 @@
+Problema em que o projeto atua: Ele ajuda na organização da empresa assim fazendo algo mais prático e rápido tanto para o cliente tanto para o funcionamento. A segurança pode ser aprimorada com a ajudo do dispositivo.
