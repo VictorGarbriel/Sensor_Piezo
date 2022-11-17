@@ -13,8 +13,10 @@ Resumo: O principio do sensor de Piezo (Sensor de pressão) é excelente a press
  
  ---
  
- Justificação: Ele vai notificar o funcionario quando um cliente pissar em um sensor de pieze.
+Menu:
 
-Problema em que o projeto atua: Ele ajuda na organização da empresa assim fazendo algo mais prático e rápido tanto para o cliente tanto para o funcionamento.
+[Justificativa](https://github.com/VictorGarbriel/Sensor_Piezo/blob/main/Justificativa.md)
 
-Referências: Suhanko, Djames. "Piezo Elétrico - Sensor de batida, buzzer ou acendor de led? Todas as anteriores". Disponivel em: < https://www.dobitaobyte.com.br/piezo-eletrico-sensor-de-batida-buzzer-ou-acendedor-de-led-todas-as-anteriores/?amp >. Acesso em: 21, out 2022 https://baiadoconhecimento.com/biblioteca/conhecimento/read/49012-qual-o-principio-de-funcionamento-do-sensor-de-pressao-piezoeletrico >. Acesso em: 21, saída 2022. Wika. "Sensor de pressão". Disponivel em: < https://www.wika.com.br/landingpage_pressure_sensor_pt_br.WIKA#:~:text=Um%20sensor%20de%20press%C3%A3o%20converte,press%C3%A3o%20ou%20transdutor%20de %20pressione%C3%A3o . >. Acesso em: 21, saída 2022. Wr Kits. "SIMPLES E EFICIENTE: SENSOR DE IMPACTO COM PIEZO!".https://youtu.be/MzTjQcd2RpE >. Acesso em: 21, saída 2022
+[Problemas em que atua](https://github.com/VictorGarbriel/Sensor_Piezo/blob/main/Problema_em_que_atua.md)
+
+[Referências](https://github.com/VictorGarbriel/Sensor_Piezo/blob/main/Referencia.md)
