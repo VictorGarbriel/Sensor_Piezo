@@ -15,8 +15,8 @@ Resumo: O principio do sensor de Piezo (Sensor de pressão) é excelente a press
  
 Menu:
 
-[Justificativa](https://github.com/VictorGarbriel/Sensor_Piezo/blob/main/Justificativa.md)
+.[Justificativa](https://github.com/VictorGarbriel/Sensor_Piezo/blob/main/Justificativa.md)
 
-[Problemas em que atua](https://github.com/VictorGarbriel/Sensor_Piezo/blob/main/Problema_em_que_atua.md)
+.[Problemas em que atua](https://github.com/VictorGarbriel/Sensor_Piezo/blob/main/Problema_em_que_atua.md)
 
-[Referências](https://github.com/VictorGarbriel/Sensor_Piezo/blob/main/Referencia.md)
+.[Referências](https://github.com/VictorGarbriel/Sensor_Piezo/blob/main/Referencia.md)
