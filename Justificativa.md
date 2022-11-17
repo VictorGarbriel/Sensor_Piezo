@@ -1,0 +1,1 @@
+Justificação: Ele vai notificar o funcionario quando um cliente pissar em um sensor de força assim ascendendo um led e pode ser usado em casos de segurança, caso alguem coloque seu peso em um certo local, o piezo irá apitar e notificar o proprietário do local e possivelmente as autoridades locais. 
